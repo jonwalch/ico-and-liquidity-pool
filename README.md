@@ -1,6 +1,6 @@
 # LP Project
 
-I wrote these two project as part of the Macro Smart Contract Security Engineering Fellowship. https://0xmacro.com/engineering-fellowship
+I wrote these two projects as part of the Macro Smart Contract Security Engineering Fellowship. https://0xmacro.com/engineering-fellowship
 I combined the two for convenience.
 
 ## Technical Spec
