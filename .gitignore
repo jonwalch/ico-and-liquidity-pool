@@ -1,0 +1,13 @@
+.idea
+.env
+cache/
+lcov.info
+out/
+report/
+broadcast
+src/fe/node_modules
+src/fe/.parcel-cache
+src/fe/dist
+src/frontend-2/node_modules
+src/frontend-2/.parcel-cache
+src/frontend-2/dist
